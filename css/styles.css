@@ -1,0 +1,37 @@
+/* styles */
+body {
+  background: linear-gradient(#77ff33, #ffff33) fixed;
+}
+
+#main, #login {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#main a {
+  margin:10px;
+  width:200px;
+}
+
+#main h1 {
+  position: relative;
+  left: 12.8%;
+  margin: auto;
+}
+
+#register {
+    width: 650px;
+    height: 500px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
